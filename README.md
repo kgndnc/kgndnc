@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kagan
-- 👀 I’m interested in **Web Development, Data Science and Machine Learning**
+- 👀 I’m interested in **Web Development, [Data Science and Machine Learning](https://colab.research.google.com/drive/1lEr0XpLA0vj-eMXDJYZXhQrXmLy51vnd?usp=sharing)**
 - 🌱 I’m currently learning **React, Node.js, Python, Java and Data Science Libraries (Pandas, NumPy, Matplotlib, NLTK, SciPy etc.)**
 - 🗂️ I'm trying to become competent in **Database Design** and **SQL** for my Full-stack web projects
 - 📫 You can reach me via <a href="mailto:hkagandnc@gmail.com">email</a>
