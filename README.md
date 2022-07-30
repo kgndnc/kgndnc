@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kagan
 - 👀 I’m interested in **Web Development, [Data Science and Machine Learning](https://colab.research.google.com/drive/1lEr0XpLA0vj-eMXDJYZXhQrXmLy51vnd?usp=sharing)**
-- 🌱 I’m currently learning **React, Node.js, Python, Java and Data Science Libraries (Pandas, NumPy, Matplotlib, NLTK, SciPy etc.)**
+- 🌱 I’m currently learning **React, node.js, Next.js, Tailwind CSS, Python and Data Science Libraries (Pandas, NumPy, Matplotlib, NLTK, SciPy etc.)**
 - 🗂️ I'm trying to become competent in **Database Design** and **SQL** for my Full-stack web projects
 - 📫 You can reach me via <a href="mailto:hkagandnc@gmail.com">email</a>
 <!-- - 💞️ I’m looking to collaborate on ... -->
@@ -25,4 +25,5 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>  
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"> <img src="https://www.pygame.org/ftp/pygame-head-party.png" alt="pygame" width="40" height="40"/> </a>
 </p>
